@@ -8,11 +8,13 @@
     }
     .header {
         position: relative;
-        margin: 8px 0px;
+        margin: 0;
+        width: 100%;    
     }
     .container {
         position: absolute;
         margin: 50px 0 0 0;
+        width: 100%;
     }
     .header-menu {
         display: block;
@@ -24,7 +26,7 @@
         background: aliceblue;
         border: 1px solid #266cec;
         border-radius: 4px;
-        margin: 0 0 0 5px;
+        margin: 0;
         padding-left: 0px;
     }
     .header_list-mobile {
